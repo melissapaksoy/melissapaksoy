@@ -1,4 +1,4 @@
-<p align="center" color="pink > Melissa Paksoy
+<p align="center" color="pink> Melissa Paksoy
 </p>
 
 
