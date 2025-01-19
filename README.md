@@ -1,6 +1,6 @@
 <p align="center" color="pink >
   <a href="https://github.com/melissapaksoy">Melissa Paksoy
-    <img src="" alt="Melissa Paksoy" /></a>
+   </a>
 </p>
 
 
