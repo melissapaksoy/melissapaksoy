@@ -1,7 +1,4 @@
-<p align="center" color="pink> Melissa Paksoy
-</p>
-
-
+# Hello, I'm Melissa! 
 
 # About Me
 Passionate Computer Science student with a strong foundation in programming and a keen interest in developing innovative applications and websites.
