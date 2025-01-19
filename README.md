@@ -1,6 +1,4 @@
-<p align="center" color="pink >
-  <a href="https://github.com/melissapaksoy">Melissa Paksoy
-   </a>
+<p align="center" color="pink > Melissa Paksoy
 </p>
 
 
