@@ -10,7 +10,7 @@ $\color{Rhodamine}{\textrm{expertise to problem-solving and design-oriented proj
 
 ## $\color{CarnationPink}{My\ Skills\ 🎀}$
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,apple,bash,ts,cs,discord,dotnet,docker,git,github,instagram,java,jquery,linkedin,linux,maven,mysql,ps,php,phpstorm,postgres,pycharm,react,regex,rider,twitter,visualstudio,vscode,webstorm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,apple,bash,ts,cs,discord,dotnet,docker,git,github,instagram,java,jquery,linkedin,linux,maven,mysql,ps,php,phpstorm,postgres,pycharm,react,regex,rider,twitter,visualstudio,vscode,webstorm,tiktok)](https://skillicons.dev)
 
 <!--
 **melissapaksoy/melissapaksoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
