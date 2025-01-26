@@ -1,5 +1,6 @@
 # $\color{Rhodamine}{Hello,\ I`m\ Melissa!\ 🎀}$
 ![Sad Hamster](https://tr.rbxcdn.com/180DAY-4422bc080c9c234dcd2c830fd3c0579c/420/420/Hat/Webp/noFilter)
+<img src="https://tr.rbxcdn.com/180DAY-4422bc080c9c234dcd2c830fd3c0579c/420/420/Hat/Webp/noFilter" data-canonical-src="https://tr.rbxcdn.com/180DAY-4422bc080c9c234dcd2c830fd3c0579c/420/420/Hat/Webp/noFilter" width="200" height="400" />
 
 ## $\color{CarnationPink}{About\ Me\ 🎀}$
 $\color{Rhodamine}{\textrm{Passionate Computer Science student with a strong foundation in programming and a keen interest in developing innovative applications and}}$
