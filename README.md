@@ -1,4 +1,4 @@
-# $\color{Rhodamine}{Hello,\ I'm\ Melissa!\ 🎀}$
+# $\color{Rhodamine}{Hello,\ I`m\ Melissa!\ 🎀}$
 
 ## $\color{CarnationPink}{About\ Me\ 🎀}$
 $\color{pink}{Passionate\ Computer\ Science\ student with a strong foundation in programming and a keen interest in developing innovative applications and websites. 
