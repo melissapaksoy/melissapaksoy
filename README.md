@@ -3,8 +3,10 @@
 ## $\color{CarnationPink}{About\ Me\ 🎀}$
 $\color{p}{}$
 
-$\color{CarnationPink}{\textrm{Passionate Computer Science student with a strong foundation in programming and a keen interest in developing innovative applications and websites. 
-Complemented by a background in fashion design and makeup artistry, bringing a unique blend of creativity and technical expertise to problem-solving and design-oriented projects.}}$  
+$\color{CarnationPink}{\textrm{Passionate Computer Science student with a strong foundation in programming}}$  
+$\color{CarnationPink}{\textrm{and a keen interest in developing innovative applications and websites. }}$  
+$\color{CarnationPink}{\textrm{Complemented by a background in fashion design and makeup artistry, bringing a unique blend }}$  
+$\color{CarnationPink}{\textrm{of creativity and technical expertise to problem-solving and design-oriented projects.}}$  
 
 
 
