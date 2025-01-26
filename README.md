@@ -11,7 +11,7 @@ $\color{Rhodamine}{\textrm{expertise to problem-solving and design-oriented proj
 
 ## $\color{CarnationPink}{My\ Skills\ 🎀}$
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,apple,bash,ts,cs,dotnet,docker,git,github,instagram,java,jquery,linkedin,linux,maven,mysql,ps,php,phpstorm,postgres,pycharm,react,regex,rider,twitter,visualstudio,vscode,webstorm)](https://github.com/melissapaksoy)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,apple,bash,ts,cs,dotnet,docker,git,github,java,jquery,linux,maven,mysql,ps,php,phpstorm,postgres,pycharm,react,regex,rider,visualstudio,vscode,webstorm)](https://github.com/melissapaksoy)
 
 ## $\color{CarnationPink}{My\ Socials\ 🎀}$
 [![My Skills](https://skillicons.dev/icons?i=discord,instagram,linkedin,twitter,facebook)](https://github.com/melissapaksoy)
