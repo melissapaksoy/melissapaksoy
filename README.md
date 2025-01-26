@@ -8,7 +8,7 @@ Complemented by a background in fashion design and makeup artistry, bringing a u
 
 
 
-## $\color{darkpink}{My\ Skills\ 🎀}$
+## $\color{pink}{My\ Skills\ 🎀}$
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,apple,bash,ts,cs,discord,dotnet,docker,git,github,instagram,java,jquery,linkedin,linux,maven,mysql,ps,php,phpstorm,postgres,pycharm,react,regex,rider,twitter,visualstudio,vscode,webstorm)](https://skillicons.dev)
 
